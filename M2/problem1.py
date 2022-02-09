@@ -9,6 +9,7 @@ def process_array(num, arr):
     print(arr)
     print("\nOdds output:\n")
     # TODO add necessary print statement to output only the odd values (hint, best if shown as a single line)
+    print(arr) # <-- this is not the answer
 
 
 print("Problem 1")

@@ -9,6 +9,7 @@ def process_array(num, arr):
     print(arr)
     print("\nPositive Output:\n")
     # TODO add new code here to print the desired result
+    print(arr) # <-- this is not the answer
 
 
 print("Problem 3")

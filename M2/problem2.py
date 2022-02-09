@@ -10,6 +10,7 @@ def process_array(num, arr):
     total = 0.00
     # TODO add necessary code here for sum; every number must have two decimal places shown
     print("\nThe total is {}:\n".format(total))
+    print(arr) # <-- this is not the answer
 
 
 print("Problem 2")
